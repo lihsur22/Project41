@@ -94,18 +94,18 @@ function thunder() {
 	}
 	if(frame == 1)
 	{
-		image(t1, pos, 1, pos + 100, 301);
+		image(t1, pos, -15, pos + 100, 301);
 	}
 	if(frame == 2)
 	{
-		image(t2, pos, 1, pos + 100, 301);
+		image(t2, pos, -15, pos + 100, 301);
 	}
 	if(frame == 3)
 	{
-		image(t3, pos, 1, pos + 100, 301);
+		image(t3, pos, -15, pos + 100, 301);
 	}
 	if(frame == 4)
 	{
-		image(t4, pos, 1, pos + 100, 301);
+		image(t4, pos, -15, pos + 100, 301);
 	}
 }
